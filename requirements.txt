@@ -1,6 +1,7 @@
 langchain
 streamlit
 docx
+python-docx
 Pillow
 requests
 python-dotenv
