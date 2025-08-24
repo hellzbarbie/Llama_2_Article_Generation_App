@@ -1,0 +1,6 @@
+langchain
+streamlit
+docx
+Pillow
+requests
+python-dotenv
